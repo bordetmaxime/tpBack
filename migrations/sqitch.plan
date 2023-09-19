@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=family_deck
+
+init_bdd 2022-08-20T16:27:05Z mathieu suhard <student@teleporter> # mise en place de la bdd
+viewsTodolist 2022-08-31T07:30:24Z mathieu suhard <student@teleporter> # ajout des views todolist
+viewsFamily 2022-08-31T07:41:11Z mathieu suhard <student@teleporter> # ajout des views family
